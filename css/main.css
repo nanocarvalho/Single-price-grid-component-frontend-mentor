@@ -65,7 +65,7 @@ li {
 
 
 /* info container */
-.info-container {
+.call-container {
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -191,7 +191,7 @@ li {
     }
 
     /* info container */
-    .info-container {
+    .call-container {
         flex-direction: row;
     }
 
