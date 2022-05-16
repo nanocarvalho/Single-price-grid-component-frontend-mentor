@@ -181,6 +181,14 @@ li {
     .text-container {
         padding: 2rem;
     }   
+    .text-container h1 {
+        font-size: 1.6rem;
+        margin-bottom: 0.9rem;
+    }
+    
+    .text-light-green {
+        margin-bottom: 0.5rem;
+    }
 
     /* info container */
     .info-container {

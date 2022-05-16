@@ -11,8 +11,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-SyUNOIxD5)
+- [Live Site URL](https://single-price-grid-component-frontend-mentor.pages.dev/)
 
 ## My process
 I followed a simple process using flexbox. But I think that I should've used grid on this one, more simple to arrange.
